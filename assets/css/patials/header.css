@@ -1,0 +1,28 @@
+.header-top{
+    background: #fff;
+    transition: all 1s;
+    height: 90px;
+    border-bottom: 1px solid #fff;
+    position: fixed;
+    align-items: center;
+}
+.navbar{
+    justify-content: space-between;
+    text-decoration: none;
+}
+#header{
+    height: 90px;
+    text-decoration: none;
+    width: 100%;
+}
+.navbar ul li {
+    align-items: center;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 10px 0px 10px 28px;
+}
+.navbar ul {
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+}
