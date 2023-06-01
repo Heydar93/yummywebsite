@@ -1,0 +1,47 @@
+#your-healthy{
+    background-color: #eee;
+  display: flex;
+}
+.container-healthy{
+    width: 80%;
+    margin: 0px auto;
+    display: flex;
+    padding-top: 160px;
+    padding-bottom: 60px;
+}
+.healthy-content h2{
+   margin-bottom: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 44px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.healthy-content p{
+    margin-bottom: 30px;
+}
+.health-image img{
+    max-width: 100%;
+    height: auto;
+}
+.healthy-content{
+    margin-right: 200px;
+}
+.book-a-table-2{
+    text-decoration: none;
+    padding: 12px 36px;
+    font-size: 14px;
+    color: #fff;
+    background-color: brown;
+    transition: 0.3s;
+    border-radius: 50px;
+}
+.watch-a-video{
+    font-size: 16px;
+    transition: 0.5s;
+    margin-left: 25px;
+    color: var(--font-secondary);
+    font-weight: 600;
+    text-decoration: none;
+}
+
