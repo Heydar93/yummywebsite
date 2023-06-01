@@ -1,0 +1,20 @@
+#whyus{
+    padding: 80px 0px;
+    background-color: #eee;
+    display: block;
+}
+.container-whyus{
+   margin: 0px 62px;
+   padding: 0px 12px;
+    
+}
+.row-whyus{
+    display: flex;
+    flex-wrap: wrap;
+}
+.whyuscontent{
+    display: block;
+    padding: 30px;
+    color: #fff;
+    background-color: red;
+}
